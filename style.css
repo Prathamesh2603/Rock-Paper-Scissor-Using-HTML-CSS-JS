@@ -89,3 +89,10 @@ img {
     border-radius: 50%;
 }
 
+#msg {
+    background-color: #095ae7;
+    color: white;
+    font-size: 2vmax;
+    padding: 2vmin;
+    border-radius: 2vmin;
+}
